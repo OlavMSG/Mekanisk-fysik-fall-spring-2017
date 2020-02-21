@@ -1,0 +1,140 @@
+S1:
+Tilpassede verdier:
+S0=		4.322048e+02 mm
+A=		1.872981e+01 mm
+Alpha=	-8.437766e-06 1/s
+w=		9.597495e-03 (rad)/s
+T=		6.546693e+02 s
+phi=	2.099363e+00 (rad)
+Middelverdier:
+<S0>=	4.321947e+02 mm
+<A>=	1.891904e+01 mm
+<Alpha>=-1.460030e-05 1/s
+<w>=	9.595955e-03 (rad)/s
+<T>=	6.550285e+02 s
+<phi>=	2.110468e+00 (rad)
+Usikkerheter:
+<dS0>=	1.094190e+00 mm
+<dA>=	3.525465e+00 mm
+<dAlpha>=1.891218e-04 1/s
+<dw>=	1.887168e-04 (rad)/s
+<dphi>=	1.801050e-01 (rad)
+Korellasjonskoeeisient mellom S0 og T: -5.154510e-01
+
+
+S2:
+Tilpassede verdier:
+S0=		4.485159e+02 mm
+A=		2.988761e+01 mm
+Alpha=	3.962722e-04 1/s
+w=		9.762697e-03 (rad)/s
+T=		6.435912e+02 s
+phi=	2.362857e+00 (rad)
+Middelverdier:
+<S0>=	4.484955e+02 mm
+<A>=	2.994877e+01 mm
+<Alpha>=3.970528e-04 1/s
+<w>=	9.761667e-03 (rad)/s
+<T>=	6.436621e+02 s
+<phi>=	2.365020e+00 (rad)
+Usikkerheter:
+<dS0>=	1.838761e-01 mm
+<dA>=	7.320268e-01 mm
+<dAlpha>=2.403668e-05 1/s
+<dw>=	2.112331e-05 (rad)/s
+<dphi>=	1.818060e-02 (rad)
+Korellasjonskoeeisient mellom S0 og T: 1.729277e-02
+
+Resultat:
+
+
+r =  0.05 +- 5e-05
+M = 1.50605 +- 0.00125
+L = 2.115 +- 0.01
+t_kammer = 0.03025 +- 1e-07
+d = 0.06357499999999999 +- 0.000147901994577
+b = 0.046912499999999996 +- 7.39510141918e-05
+T =  649.1302499999999 +- 5.53905
+S =  0.016311100000000023 +- 0.00110953241334
+G = 1.4293264303739351e-11 +- 1.00585341011e-12
+eller 7.0372546728 % av G
+deltaS/S =  6.80231506974 % av G
+deltaL/L =  0.4728132387706856 % av G
+deltab/b =  0.157636054765 % av G
+deltaT/T =  0.853303323948 % av G
+deltar/r =  0.1 % av G
+deltaM/M =  0.0829985724246 % av G
+
+noe ekstra
+r =  0.05 +- 5e-05
+M = 1.50605 +- 0.00125
+L = 2.115 +- 0.01
+t_kammer = 0.03025 +- 1e-07
+d = 0.06357499999999999 +- 0.000147901994577
+b = 0.0479125 +- 7.39510141918e-05
+T =  649.1302499999999 +- 5.53905
+S =  0.016311100000000023 +- 0.00110953241334
+G = 1.4974992121588956e-11 +- 1.0537759606e-12
+eller 7.03690494152 % av G
+deltaS/S =  6.80231506974 % av G
+deltaL/L =  0.4728132387706856 % av G
+deltab/b =  0.154345972746 % av G
+deltaT/T =  0.853303323948 % av G
+deltar/r =  0.1 % av G
+deltaM/M =  0.0829985724246 % av G
+
+NY S1
+r =  0.05 +- 5e-05
+M = 1.50605 +- 0.00125
+L = 2.115 +- 0.01
+t_kammer = 0.03025 +- 1e-07
+d = 0.06357499999999999 +- 0.000147901994577
+b = 0.046912499999999996 +- 7.39510141918e-05
+T =  649.1302499999999 +- 5.53905
+S =  0.022930000000000006 +- 0.00110953241334
+G = 2.009334443935375e-11 +- 1.03758850945e-12
+eller 5.16384175157 % av G
+deltaS/S =  4.8387806949 % av G
+deltaL/L =  0.4728132387706856 % av G
+deltab/b =  0.157636054765 % av G
+deltaT/T =  0.853303323948 % av G
+deltar/r =  0.1 % av G
+deltaM/M =  0.0829985724246 % av G
+
+noe ekstra og NY S1
+r =  0.05 +- 5e-05
+M = 1.50605 +- 0.00125
+L = 2.115 +- 0.01
+t_kammer = 0.03025 +- 1e-07
+d = 0.06357499999999999 +- 0.000147901994577
+b = 0.0479125 +- 7.39510141918e-05
+T =  649.1302499999999 +- 5.53905
+S =  0.022930000000000006 +- 0.00110953241334
+G = 2.1051711371276887e-11 +- 1.08697672412e-12
+eller 5.16336512958 % av G
+deltaS/S =  4.8387806949 % av G
+deltaL/L =  0.4728132387706856 % av G
+deltab/b =  0.154345972746 % av G
+deltaT/T =  0.853303323948 % av G
+deltar/r =  0.1 % av G
+deltaM/M =  0.0829985724246 % av G
+
+
+
+
+
+
+
+
+
+
+Forsøket utføres for å finne gravitasjonskonstanten G ved å studere gravitasjonskreftene mellom små objekter, her: blykuler. I forsøket blir to små blykuler festet til en pendel inne i et kammer. En laserstråle blir rettet mot et speil som settes på stedet pendeltråden er festet til stangen mellom kulene. Dette lysstrålen blir reflektert på en målestokk. Utenfor står to større blykuler som kan roteres rundt kammeret. Når disse flyttes nært de små blykulene, vil gravitasjonskreftene trekke dem mot hverandre og pendelen vil rotere, som kan bekreftes av at lysstrålen beveger seg langs målestokken. Ettersom metalltråden roteres, vil det oppstå et torsjonskraft som motvirker denne bevegelsen. Den vil etterhvert nå et punkt hvor den oversitger gravitasjonskreftene og begynner så å rotere motsatt vei før den når et nytt kritisk punkt, hvor torsjonen og gravitasjonen roterer den på nytt. Den vil forsette slik i en dempet oscillasjonsbevegelse. Ved å måle verdier tilkbolet forsøket, som svingetiden for pendelen, distansen mellom punktene lysstrålen treffer målestokken og lengder kan gravitasjonskonstanten approksimeres. 
+Det er viktig å ha en nøyaktig approksimasjon av gravitasjonskonstanten, ettersom store deler av mekanisk fysikk avhenger av utregninger av gravitasjonskraften på jorda, som man må regne ut ved hjelp av gravitasjonskonstanten. Eksperimentet er en gjennoptagning av et liknende eksperiment utført av Cavendish. 
+
+%Teori: Når metalltråden i kammeret roteres utføres den for torsjon. Denne torsjonen er  t = D?. Torsjon er lik kraft*kraftarm så F =D/ r ·?. I forsøket blir de små kulene påvirket av to gravitasjonskrefter fra hver av de store kulene, som forårsaker en vinkel mellom stangen og dets gamle likevektsposisjon. Gravitasjonskreftene sammenlagt er da at 2Fg=D?. Forsøket utføres to ganger, så  to vinkler vill oppstå. Sammenlagt er disse kreftene 4Fr = D(?1 + ?2), som gjør at gravitasjonskraften mellom to kuler er F =D/ r ·(?1 + ?2 )/4 . Hvis vinklene er bestemt små, er S /L ˜ 2(?1 + ?2) som gir F =D/8r ·S/ L.
+%Torsjonsstivheten D kan bestemmes ved at D =4p^2*I/T^2. 
+%Gravitasjonskonstanten G = F ·b^2/mM=D*1/8r*S/L*b^2/Mm som gir G = p^2Sb^2r/(T^2LM)
+%Dette er gravitasjonskraften som virker mellom hver av de to kuleparene av kuler nær hverandre. Hver av dem vil også bli påvirket av den kulen lengre borte. Denne kraften er F0 = GmM/(b^2 + 4r). Denne kraften har et dreiemoment f med verdi F0*sina = F0 = GmM/(b^2 + 4r) * b v(b2 + 4r2) 
+%=G*mM/b^2 · b^3/ (b^2 + 4r^2)^3/2
+
+Drakamp mellom torsjonsvekt og gravitasjonskraften! Du vil ikke tro hva gravitasjonskonstanten er!!!!!!
